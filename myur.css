@@ -1,0 +1,8 @@
+//css code-
+.space{
+    border-spacing: 30px;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
